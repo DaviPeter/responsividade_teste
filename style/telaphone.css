@@ -23,14 +23,14 @@ header {
 
 header h1 {
     position: absolute;
-    top: 1.7vh;
+    top: 0.5vh;
     left: 2vw;
     font-size: 1.4rem;
 }
 
 header img {
     display: block;
-    width: 8.5vw;
+    width: 5.5vw;
     height: 6vh;
     position: absolute;
     top: 1.2vh;
